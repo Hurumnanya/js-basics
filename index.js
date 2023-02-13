@@ -19,6 +19,7 @@ console.log("Hello ! ! ! my name is " + firstname + " "  + lastname + " I am a "
 
 console.log("Some of my skills include " + skills + " I love " + color + ",");
 
-console.log("My country got her independence in the year " + independence + ".");
+console.log("My country got her independence in the year " +  independence + ".");
+
 
 
